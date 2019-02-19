@@ -1,7 +1,7 @@
 ---
-title: "Test Post"
-date: 2017-10-13
-unity_dir: game_post
+title: "The Injured Pilot"
+date: 2019-02-19
+unity_dir: injured-pilot
 categories:
   - General
 tags:
