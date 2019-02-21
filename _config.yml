@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Berkay Ersever"
-  avatar           : "/assets/images/berkay.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/berkay.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Senior CS Student"
   location         : "Turkey"
   email            :
